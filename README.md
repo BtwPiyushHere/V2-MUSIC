@@ -24,7 +24,7 @@ THE-PIYUSH/THE-PIYUSH is a ✨ _special_ ✨ repository because its README.md (t
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/ccb70957819c2abfa5466.jpg">
+  <img src="https://telegra.ph/file/03685989405f5ff3c1294.jpg">
 </p>
 
 <p align="center">
